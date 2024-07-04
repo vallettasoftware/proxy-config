@@ -12,7 +12,7 @@ function FindProxyForURL(url, host) {
     );
 
     if (useProxy) {
-        return "SOCKS5 127.0.0.1:1086";  // Прокси-сервер Shadowsocks на локальном хосте, порт 1086
+        return "SOCKS5 127.0.0.1:1080";
     }
     // Все остальные домены идут напрямую
     return "DIRECT";
