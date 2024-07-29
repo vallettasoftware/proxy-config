@@ -3,6 +3,7 @@ const PROXY_DOMAINS = [
     "upwork.com",
     "google.com",
     "atlassian.net",
+    "linkedin.com",
     "whatismyipaddress.com" // для теста
 ]
 function FindProxyForURL(url, host) {
