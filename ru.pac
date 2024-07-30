@@ -1,9 +1,11 @@
 const PROXY_DOMAINS = [
-    "slack.com",
-    "upwork.com",
-    "google.com",
-    "atlassian.net",
-    "linkedin.com",
+    "slack.com", // common
+    "upwork.com", // common
+    "google.com", // common
+    "atlassian.net", // common
+    "bitbucket.org",  // common
+    "linkedin.com", // HR
+    "djinni.co", // HR
     "whatismyipaddress.com" // для теста
 ]
 function FindProxyForURL(url, host) {
