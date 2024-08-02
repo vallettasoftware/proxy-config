@@ -4,6 +4,8 @@ const PROXY_DOMAINS = [
     "google.com", // common
     "atlassian.net", // common
     "bitbucket.org",  // common
+    "openai.com",
+    "chatgpt.com",
     "linkedin.com", // HR
     "djinni.co", // HR
     "whatismyipaddress.com" // для теста
