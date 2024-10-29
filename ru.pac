@@ -12,7 +12,8 @@ const PROXY_DOMAINS = [
     "linkedin.com", // HR
     "djinni.co", // HR
     "hubspot.com", // Sales
-    "whatismyipaddress.com" // для теста
+    "whatismyipaddress.com", // для теста
+    "devexpress.com" // DevExpress
 ]
 function FindProxyForURL(url, host) {
     // Проверка основного домена и всех его поддоменов
