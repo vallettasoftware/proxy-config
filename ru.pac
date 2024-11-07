@@ -3,6 +3,7 @@ const PROXY_DOMAINS = [
     "upwork.com", // common
     "google.com", // common
     "atlassian.net", // common
+    "atlassian.com",
     "bitbucket.org",  // common
     "github.com", // github/copilot
     "githubusercontent.com", // github/copilot
