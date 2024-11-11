@@ -8,6 +8,8 @@ const PROXY_DOMAINS = [
     "github.com", // github/copilot
     "githubusercontent.com", // github/copilot
     "githubcopilot.com", // github/copilot
+    "trello.com",
+    "trello.net",
     "openai.com",
     "chatgpt.com",
     "linkedin.com", // HR
